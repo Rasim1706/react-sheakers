@@ -1,0 +1,19 @@
+.input {
+  padding: 10px;
+  border-bottom: 1px solid #333;
+}
+input {
+  padding: 7px 5px;
+  width: 100%;
+  outline: none;
+  border: none;
+}
+.loginBtn {
+  padding: 7px 5px;
+  width: 100%;
+  background: #333;
+  color: #fff;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
